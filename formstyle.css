@@ -1,0 +1,16 @@
+.container {
+    max-width: 960px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.lh-condensed { line-height: 1.25; }
+.padding_div {
+
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}

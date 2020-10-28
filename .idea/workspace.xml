@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0654ae0a-2c2b-4624-93f2-42917c722f1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jPOGmisUXOd8wg8bpmIIcyrcDm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Heba\PhpstormProjects\task1\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.checkSession.js">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/task1/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="checkSession.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/checkSession.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="getUserFromsession.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/getUserFromsession.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/login.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.checkSession.js" />
+        <item itemvalue="PHP Script.getUserFromsession.php" />
+        <item itemvalue="PHP Script.login.php" />
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0654ae0a-2c2b-4624-93f2-42917c722f1b" name="Default Changelist" comment="" />
+      <created>1603702166332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603702166332</updated>
+      <workItem from="1603702167355" duration="10861000" />
+      <workItem from="1603778344471" duration="19578000" />
+      <workItem from="1603864987962" duration="9350000" />
+      <workItem from="1603875554681" duration="2953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="72" key="#PHP" timestamp="1603703705065">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="72" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1603703705065" />
+    <state x="254" y="84" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603703663136">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1603703663136" />
+    <state width="1601" height="230" key="GridCell.Tab.0.bottom" timestamp="1603871390251">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="230" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603871390251" />
+    <state width="1601" height="230" key="GridCell.Tab.0.center" timestamp="1603871390250">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="230" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603871390250" />
+    <state width="1601" height="230" key="GridCell.Tab.0.left" timestamp="1603871390250">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="230" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603871390250" />
+    <state width="1601" height="230" key="GridCell.Tab.0.right" timestamp="1603871390251">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="230" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603871390251" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1603873846567">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1603873846567" />
+    <state x="506" y="29" width="587" height="801" key="find.popup" timestamp="1603872490619">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="29" width="587" height="801" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1603872490619" />
+    <state x="516" y="249" key="jetbrains.nodejs.interpreters-dialog" timestamp="1603872630466">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="516" y="249" key="jetbrains.nodejs.interpreters-dialog/0.0.1600.860@0.0.1600.860" timestamp="1603872630466" />
+  </component>
+</project>
