@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0654ae0a-2c2b-4624-93f2-42917c722f1b" name="Default Changelist" comment="" />
+    <list default="true" id="0654ae0a-2c2b-4624-93f2-42917c722f1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1jPOGmisUXOd8wg8bpmIIcyrcDm" />
@@ -39,14 +44,17 @@
       <recent name="C:\Users\Heba\PhpstormProjects\task1\img" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.checkSession.js">
-    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/task1/login.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.deleteTicket.php">
     <configuration name="checkSession.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/checkSession.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="deleteTicket.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/deleteTicket.php">
+      <method v="2" />
+    </configuration>
     <configuration name="getUserFromsession.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/getUserFromsession.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="listAllUserTickets.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/listAllUserTickets.php">
       <method v="2" />
     </configuration>
     <configuration name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/login.php">
@@ -54,10 +62,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.deleteTicket.php" />
+        <item itemvalue="PHP Script.listAllUserTickets.php" />
         <item itemvalue="Node.js.checkSession.js" />
         <item itemvalue="PHP Script.getUserFromsession.php" />
         <item itemvalue="PHP Script.login.php" />
-        <item itemvalue="JavaScript Debug.login.html" />
       </list>
     </recent_temporary>
   </component>
@@ -72,7 +81,8 @@
       <workItem from="1603702167355" duration="10861000" />
       <workItem from="1603778344471" duration="19578000" />
       <workItem from="1603864987962" duration="9350000" />
-      <workItem from="1603875554681" duration="2953000" />
+      <workItem from="1603875554681" duration="8634000" />
+      <workItem from="1604214253145" duration="3864000" />
     </task>
     <servers />
   </component>
@@ -88,26 +98,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="84" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1603703663136" />
-    <state width="1601" height="230" key="GridCell.Tab.0.bottom" timestamp="1603871390251">
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604214789117">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="230" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603871390251" />
-    <state width="1601" height="230" key="GridCell.Tab.0.center" timestamp="1603871390250">
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1604214789117" />
+    <state width="1601" height="326" key="GridCell.Tab.0.bottom" timestamp="1603893568961">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="230" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603871390250" />
-    <state width="1601" height="230" key="GridCell.Tab.0.left" timestamp="1603871390250">
+    <state width="1601" height="326" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603893568961" />
+    <state width="1601" height="326" key="GridCell.Tab.0.center" timestamp="1603893568961">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="230" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603871390250" />
-    <state width="1601" height="230" key="GridCell.Tab.0.right" timestamp="1603871390251">
+    <state width="1601" height="326" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603893568961" />
+    <state width="1601" height="326" key="GridCell.Tab.0.left" timestamp="1603893568961">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="230" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603871390251" />
-    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1603873846567">
+    <state width="1601" height="326" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603893568961" />
+    <state width="1601" height="326" key="GridCell.Tab.0.right" timestamp="1603893568961">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1603873846567" />
+    <state width="1601" height="326" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603893568961" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1603890596026">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1603890596026" />
     <state x="506" y="29" width="587" height="801" key="find.popup" timestamp="1603872490619">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
