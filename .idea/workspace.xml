@@ -11,10 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0654ae0a-2c2b-4624-93f2-42917c722f1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Ticket.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TicketsList.html" beforeDir="false" afterPath="$PROJECT_DIR$/TicketsList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deleteTicket.php" beforeDir="false" afterPath="$PROJECT_DIR$/deleteTicket.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fillTicktList.js" beforeDir="false" afterPath="$PROJECT_DIR$/fillTicktList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listAllUserTickets.php" beforeDir="false" afterPath="$PROJECT_DIR$/listAllUserTickets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upbdatTicket.php" beforeDir="false" afterPath="$PROJECT_DIR$/upbdatTicket.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,7 +59,7 @@
       <recent name="C:\Users\Heba\PhpstormProjects\task1\img" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.deleteTicket.php">
+  <component name="RunManager" selected="PHP Script.listAllUserTickets.php">
     <configuration name="checkSession.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/checkSession.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -74,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.deleteTicket.php" />
         <item itemvalue="PHP Script.listAllUserTickets.php" />
+        <item itemvalue="PHP Script.deleteTicket.php" />
         <item itemvalue="Node.js.checkSession.js" />
         <item itemvalue="PHP Script.getUserFromsession.php" />
         <item itemvalue="PHP Script.login.php" />
@@ -97,7 +100,13 @@
       <workItem from="1604214253145" duration="3864000" />
       <workItem from="1604220525018" duration="867000" />
       <workItem from="1604221403527" duration="1462000" />
-      <workItem from="1604222878080" duration="840000" />
+      <workItem from="1604222878080" duration="2409000" />
+      <workItem from="1604225298778" duration="9993000" />
+      <workItem from="1604235885919" duration="145000" />
+      <workItem from="1604236040642" duration="3050000" />
+      <workItem from="1604239107951" duration="94000" />
+      <workItem from="1604239211650" duration="4025000" />
+      <workItem from="1604300316723" duration="1974000" />
     </task>
     <servers />
   </component>
@@ -129,26 +138,34 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1604214789117" />
-    <state width="1601" height="326" key="GridCell.Tab.0.bottom" timestamp="1603893568961">
+    <state width="1601" height="264" key="GridCell.Tab.0.bottom" timestamp="1604243241174">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="326" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603893568961" />
-    <state width="1601" height="326" key="GridCell.Tab.0.center" timestamp="1603893568961">
+    <state width="1601" height="264" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604243241174" />
+    <state width="1601" height="264" key="GridCell.Tab.0.center" timestamp="1604243241174">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="326" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603893568961" />
-    <state width="1601" height="326" key="GridCell.Tab.0.left" timestamp="1603893568961">
+    <state width="1601" height="264" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1604243241174" />
+    <state width="1601" height="264" key="GridCell.Tab.0.left" timestamp="1604243241174">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="326" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603893568961" />
-    <state width="1601" height="326" key="GridCell.Tab.0.right" timestamp="1603893568961">
+    <state width="1601" height="264" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1604243241174" />
+    <state width="1601" height="264" key="GridCell.Tab.0.right" timestamp="1604243241174">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="326" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603893568961" />
-    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1603890596026">
+    <state width="1601" height="264" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1604243241174" />
+    <state x="630" y="152" key="NewPhpClassDialog" timestamp="1604238496687">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1603890596026" />
+    <state x="630" y="152" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1604238496687" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1604240724981">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1604240724981" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604237640105">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1604237640105" />
     <state x="506" y="29" width="587" height="801" key="find.popup" timestamp="1603872490619">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
