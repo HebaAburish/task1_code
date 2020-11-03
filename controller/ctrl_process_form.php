@@ -1,5 +1,5 @@
 <?php
-include 'DBconnection.php';
+include 'ctrl_db_connection.php';
 
 session_start();
 $firstName=$_POST['firstName'];
@@ -18,6 +18,7 @@ $stmt->bind_param('sssssss', $firstName,$lastName,$userName,$email,$phoneNumber,
 $stmt->execute();
 $stmt->close();
 CloseCon($connection);
+header('Location: /task1/tickets_list_view.html');
 
 
 

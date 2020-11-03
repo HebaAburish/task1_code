@@ -1,6 +1,6 @@
 <?php
 include 'Ticket.php';
-include 'DBconnection.php';
+include 'ctrl_db_connection.php';
 session_start();
 
 $connection= OpenCon();

@@ -11,13 +11,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0654ae0a-2c2b-4624-93f2-42917c722f1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ticket.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicketsList.html" beforeDir="false" afterPath="$PROJECT_DIR$/TicketsList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deleteTicket.php" beforeDir="false" afterPath="$PROJECT_DIR$/deleteTicket.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fillTicktList.js" beforeDir="false" afterPath="$PROJECT_DIR$/fillTicktList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listAllUserTickets.php" beforeDir="false" afterPath="$PROJECT_DIR$/listAllUserTickets.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upbdatTicket.php" beforeDir="false" afterPath="$PROJECT_DIR$/upbdatTicket.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckForSession.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_check_session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBconnection.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_db_connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ticket.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/Ticket.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketsList.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/tickets_list_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkSession.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/check_session.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deleteTicket.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_delete_ticket.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fillTicktList.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/fill_tickts_list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formProcessing.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_process_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/form_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getTicket.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_get_ticket.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getUserFromsession.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_get_user_nam_from_session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getUserName.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/get_user_name.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listAllUserTickets.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_list_all_tickets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/login_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/first_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tick.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/tick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticketForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/ticket_form_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticketlistStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/tickets_list_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upbdatTicket.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ctrl_update_ticket.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,32 +71,35 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\task1\controller" />
+      <recent name="C:\xampp\htdocs\task1\views" />
+      <recent name="C:\xampp\htdocs\task1\static" />
       <recent name="C:\Users\Heba\PhpstormProjects\task1\img" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.listAllUserTickets.php">
-    <configuration name="checkSession.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/checkSession.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="PHP Script.ctrl_list_all_tickets.php">
+    <configuration name="check_session.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/static/check_session.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="deleteTicket.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/deleteTicket.php">
+    <configuration name="ctrl_delete_ticket.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/controller/ctrl_delete_ticket.php">
       <method v="2" />
     </configuration>
-    <configuration name="getUserFromsession.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/getUserFromsession.php">
+    <configuration name="ctrl_get_user_nam_from_session.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/controller/ctrl_get_user_nam_from_session.php">
       <method v="2" />
     </configuration>
-    <configuration name="listAllUserTickets.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/listAllUserTickets.php">
+    <configuration name="ctrl_list_all_tickets.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/controller/ctrl_list_all_tickets.php">
       <method v="2" />
     </configuration>
-    <configuration name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/login.php">
+    <configuration name="ctrl_login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/controller/ctrl_login.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.listAllUserTickets.php" />
-        <item itemvalue="PHP Script.deleteTicket.php" />
-        <item itemvalue="Node.js.checkSession.js" />
-        <item itemvalue="PHP Script.getUserFromsession.php" />
-        <item itemvalue="PHP Script.login.php" />
+        <item itemvalue="PHP Script.ctrl_list_all_tickets.php" />
+        <item itemvalue="PHP Script.ctrl_delete_ticket.php" />
+        <item itemvalue="Node.js.check_session.js" />
+        <item itemvalue="PHP Script.ctrl_get_user_nam_from_session.php" />
+        <item itemvalue="PHP Script.ctrl_login.php" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +124,10 @@
       <workItem from="1604236040642" duration="3050000" />
       <workItem from="1604239107951" duration="94000" />
       <workItem from="1604239211650" duration="4025000" />
-      <workItem from="1604300316723" duration="1974000" />
+      <workItem from="1604300316723" duration="6995000" />
+      <workItem from="1604308947136" duration="1632000" />
+      <workItem from="1604311163983" duration="8172000" />
+      <workItem from="1604383369519" duration="1115000" />
     </task>
     <servers />
   </component>
@@ -134,6 +155,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="84" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1603703663136" />
+    <state x="570" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604308749789">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="570" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1604308749789" />
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604214789117">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -174,5 +199,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="516" y="249" key="jetbrains.nodejs.interpreters-dialog/0.0.1600.860@0.0.1600.860" timestamp="1603872630466" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1604310028127">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1604310028127" />
   </component>
 </project>

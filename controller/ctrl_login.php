@@ -1,6 +1,6 @@
 <?php
 
-include 'DBconnection.php';
+include 'ctrl_db_connection.php';
 session_start();
 
 $userName=$_POST['userName'];
@@ -30,16 +30,16 @@ if ($statementObj->num_rows() > 0)
             $_SESSION['login']['userName']=$userName;
             $_SESSION['login']['password']=$password;
             $_SESSION['login']['id'] = $id;
-            header('Location:ticketForm.html');
+            header('Location: /task1/tickets_list_view.html');
         }
         else{
-            header('Location: login.html');
+            header('Location: /task1/login_view.html');
 
         }
     }
 
 } else{
-      header('Location: login.html');
+      header('Location: /task1/login_view.html');
 }
 
 $statementObj->close();
